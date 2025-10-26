@@ -304,7 +304,7 @@ export function SimuladorAcoes() {
       <div className="row mb-4">
         <div className="col-12">
           <div className="d-flex justify-content-between align-items-center">
-            <h3>Simulador de Investimentos</h3>
+            <h3>Simulador de Investimentos - Alterado por Mario - Projeto 1</h3>
             <div className="text-muted">Etapa {etapa} de 3</div>
           </div>
           <div className="progress mb-3">
